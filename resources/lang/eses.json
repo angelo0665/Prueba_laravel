@@ -1,0 +1,6 @@
+{
+	"validator":{
+		"Password": "Contraseña",
+		"The password confirmation does not match": "La confirmación de la contraseña no coincide",
+	}
+}
